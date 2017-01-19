@@ -11,6 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![paste image](http://oh1jgyw0v.bkt.clouddn.com/bcn0kq5zp0fg1pi178k56d7xoc?imageslim)
 
 
+## 尝试嵌入视频
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzcxNzA2OTA4' frameborder=0 'allowfullscreen'></iframe>
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
