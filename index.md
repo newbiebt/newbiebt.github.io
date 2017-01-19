@@ -20,9 +20,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <embed src='http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
 
-<video src="http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf">您的浏览器不支持video标签</video>
-
-<videosrc="http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf" width="320" height="240" autoplaycontrolsloop>
+<video src="http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf" width="320" height="240" autoplaycontrolsloop>
 Your browser does not support the video tag.
 </video>
 
