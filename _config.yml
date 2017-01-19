@@ -1,10 +1,8 @@
 title: huajun.site
 description: 个人介绍网站
-show_downloads: true
-google_analytics:
 theme: 
 
-about: /
-project: /
-group: /
+about: /about
+project: /project
+group: /group
 blog: /
