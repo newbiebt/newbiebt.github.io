@@ -8,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 >这是引用样式，并且输入中文以后的样式每次输入中文都会
 
+![paste image](http://oh1jgyw0v.bkt.clouddn.com/bcn0kq5zp0fg1pi178k56d7xoc?imageslim)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
