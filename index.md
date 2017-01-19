@@ -13,13 +13,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## 尝试嵌入视频
 
-### 通用代码
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzcxNzA2OTA4' frameborder=0 'allowfullscreen'></iframe>
-
-### HTML代码
-
-<embed src='http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
-
 <video src="http://player.youku.com/player.php/sid/XMzcxNzA2OTA4/v.swf" width="320" height="240" autoplaycontrolsloop>
 Your browser does not support the video tag.
 </video>
