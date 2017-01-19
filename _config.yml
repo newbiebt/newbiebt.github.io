@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
-
-title: newbiebt's site
-description: a little page
+title: Cayman theme
+description: Cayman is a clean, responsive theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: 
