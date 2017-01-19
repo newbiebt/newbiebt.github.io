@@ -2,7 +2,7 @@ title: huajun.site
 description: 个人介绍网站
 theme: 
 
-about: /about
-project: /project
-group: /group
+about: /pages/about
+project: /pages/project
+group: /pages/group
 blog: /
